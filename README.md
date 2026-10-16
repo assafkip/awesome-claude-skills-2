@@ -142,6 +142,7 @@
 - [llm-wiki](https://github.com/praneybehl/llm-wiki-plugin) - Build and maintain an LLM-curated personal knowledge base with sharded indexes and search.
 - [swarmvault](https://github.com/swarmclawai/swarmvault) - Compile docs, research, and code into a local markdown wiki, knowledge graph, and hybrid search index.
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - Manage indexed Markdown knowledge bases for agents with scoped retrieval and deterministic indexes.
+- [claudemy](https://github.com/assafkip/claudemy) - Turns any topic into a short audio course: researches the web, then writes 2-minute two-host lessons with cited sources, a card per lesson and one small practice each. A checker refuses lessons that cite pages the research never read.
 
 
 ## 🎬 Media & Content
